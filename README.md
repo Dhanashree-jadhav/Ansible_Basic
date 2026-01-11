@@ -1,19 +1,19 @@
 # Ansible_Basic
 
-# Ansible Basic – Nginx Playbook
+Ansible Basic – Nginx Playbook
 
 This repository contains a simple Ansible playbook to install and start the Nginx web server on a Linux system.  
 It is intended for beginners learning Ansible fundamentals.
 
 ---
 
-## 📁 Files
+ 📁 Files
 - `inventory` – Defines the target host (localhost)
 - `firstplaybook.yml` – Ansible playbook to install and start Nginx
 
 ---
 
-## 📄 Inventory
+ 📄 Inventory
 ```ini
 localhost ansible_connection=local
 
