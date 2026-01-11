@@ -23,7 +23,9 @@ How to run the project:
 ansible -i inventory localhost -m ping
 ansible-playbook -i inventory firstplaybook.yml
 
+
 Expected result after running the playbook:
+
 Nginx is installed on the system
 Nginx service is running
 Open http://localhost
