@@ -12,7 +12,7 @@ Files included in this repository:
 Inventory configuration:
 ```ini
 localhost ansible_connection=local
-
+```
 
 This playbook performs the following actions:
 
